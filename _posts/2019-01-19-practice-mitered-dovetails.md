@@ -17,15 +17,15 @@ The first attempt was made from pine scraps and it split when putting it togethe
 
 The second attempt I switched to cherry since it is a harder wood, harder even than the walnut I plan on using. I figured this would be more useful practice than the pine. I also wanted to experiment with different dovetail layouts; it looks a little messy because I tried a couple of layouts before committing.
 <figure>
-  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2-layout.jpg" alt="attempt 2 layout" height="50%" width="50%"/>
+  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2-layout.JPG" alt="attempt 2 layout" height="50%" width="50%"/>
 </figure>
 The idea for this try have a few different sizes. I like the overall look, but I'm not sure if it is what I want for the final piece. I do like the angle of the dovetails a lot better; these are 1/3 versus the 1/6 I used [last time]({{ site.baseurl }}{% post_url 2019-01-13-mitered-dovetail %}). Cutting out the tails went pretty smoothly and I tried taking more time to really clean up the inside corners and get the bottoms flat with a slight concavity in the middle to allow for a tighter fit.
 <figure>
-  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2-cut.jpg" alt="attempt 2 cut" height="50%" width="50%"/>
+  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2-cut.JPG" alt="attempt 2 cut" height="50%" width="50%"/>
 </figure>
 This one split catastrophically.
 <figure>
-  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2.jpg" alt="attempt 2" height="50%" width="50%"/>
+  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt2.JPG" alt="attempt 2" height="50%" width="50%"/>
 </figure>
 This was almost certainly due to me not using a block to distribute force while hammering it together. By not doing this, the hammer pushed the two pieces togethering unevenly and put too much strain on the piece. It is also possible that I didn't remove enough material from a couple of the pin/tail sets.
 
