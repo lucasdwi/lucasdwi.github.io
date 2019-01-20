@@ -4,7 +4,7 @@ categories:
 tags: turning woodworking
 layout: post
 author: Lucas Dwiel
-thumbnail: /img/2019-01-18-first-bowl-turning/bowl-resting-place.jpg
+thumbnail: /img/2019-01-18-first-bowl-turning/bowl-resting-place.JPG
 ---
 I signed up for a bowl turning workshop run by Janet at the woodshop. I went to the workshop because Janet is amazing at turning and I figured if I ever want to learn how to turn, she's the person to teach me. Although I plan on making my primary eating bowls in the ceramics studio, I will likely want to turn spindles and other pieces for furniture.
 
@@ -13,7 +13,7 @@ I started with a 6" diameter, 2" thick maple cylinder. I used double sided tape 
 Next, I shaped the profile of the bowl. I decided to play with the profile and added a slightly more complex curve to the bottom half and also turned a small cove near the rim. I then sanded the exterior using 100, 120, 150, 180, and 220 grit sandpaper.
 
 <figure>
-  <img src="/img/2019-01-18-first-bowl-turning/bowl-turning.jpg" alt="bowl turning" height="50%" width="50%"/>
+  <img src="/img/2019-01-18-first-bowl-turning/bowl-turning.JPG" alt="bowl turning" height="50%" width="50%"/>
   <figcaption>Note: the spindle of the tailstock isn't engaged because I took this photo right before hollowing out the bowl.</figcaption>
 </figure>
 
@@ -24,13 +24,13 @@ I decided that to really get rid of the tool marks and tear out I would need to 
 I then removed the bowl from the faceplate and sanded the bottom up to 180 grit with the random orbital sander and then 220 by hand. Last, I finished the bowl with three coats of Howard's.
 
 <figure>
-  <img src="/img/2019-01-18-first-bowl-turning/bowl-side.jpg" alt="bowl side" height="50%" width="50%"/>
+  <img src="/img/2019-01-18-first-bowl-turning/bowl-side.JPG" alt="bowl side" height="50%" width="50%"/>
 </figure>
 <figure>
-  <img src="/img/2019-01-18-first-bowl-turning/bowl-bottom.jpg" alt="bowl bottom" height="50%" width="50%"/>
+  <img src="/img/2019-01-18-first-bowl-turning/bowl-bottom.JPG" alt="bowl bottom" height="50%" width="50%"/>
 </figure>
 <figure>
-  <img src="/img/2019-01-18-first-bowl-turning/bowl-inside.jpg" alt="bowl inside" height="50%" width="50%"/>
+  <img src="/img/2019-01-18-first-bowl-turning/bowl-inside.JPG" alt="bowl inside" height="50%" width="50%"/>
 </figure>
 
 After turning the bowl I can completely understand why that is all that some people do in the shop -- it is ridiculously fun. There is instant gratification and you can really see your progress. The fluidity in turning is extremely satisfying. Unfortunately, I think ceramics are better than wood for bowls; however, as I mentioned above, I think this will be a really useful skill to have for spindles and other parts. Plus, maybe I'll throw a couple bowls every once and awhile for fun; why not?
