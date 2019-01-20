@@ -5,7 +5,7 @@ tags: ceramics throwing bowl
 layout: post
 thumbnail: /img/2019-01-19-large-bowl-update/bowl3-side2.jpg
 ---
-The bowls I threw [last Thursday]({{ site.baseurl }}{% post_url 2019-01-13-throwing-large-bowls %}) had finished drying to leatherhard by this Thursday (01-17). I popped them back on the wheel and trimmed them and added feet. I decided to add some more carving/detail this time around and overall, I'm fairly happy with the outcome. Unfortunately, after trimming one of them developed a crack while drying in the bottom.
+The bowls I threw [last Thursday]({{ site.baseurl }}{% post_url 2019-01-13-throwing-large-bowls %}) had finished drying to leather-hard by this Thursday (01-17). I popped them back on the wheel and trimmed them and added feet. I decided to add some more carving/detail this time around and overall, I'm fairly happy with the outcome. Unfortunately, after trimming one of them developed a crack while drying in the bottom.
 
 The first bowl I added a spiral to the bottom of which I was quite pleased with; otherwise, I left the bowl fairly untouched other than a fairly simple foot.
 <figure>
