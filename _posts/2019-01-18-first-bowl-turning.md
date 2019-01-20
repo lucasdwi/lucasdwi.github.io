@@ -4,7 +4,7 @@ categories:
 tags: turning woodworking
 layout: post
 author: Lucas Dwiel
-thumbnail: /img/2019-01-18-first-bowl-turning/bowl-resting-place.JPG
+thumbnail: /img/2019-01-18-first-bowl-turning/bowl-resting-place.jpg
 ---
 I signed up for a bowl turning workshop run by Janet at the woodshop. I went to the workshop because Janet is amazing at turning and I figured if I ever want to learn how to turn, she's the person to teach me. Although I plan on making my primary eating bowls in the ceramics studio, I will likely want to turn spindles and other pieces for furniture.
 
