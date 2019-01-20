@@ -4,7 +4,7 @@ categories:
 tags: joinery woodworking
 layout: post
 author: Lucas Dwiel
-thumbnail: /img/2019-01-19-practice-mitered-dovetails/attempt2.jpg
+thumbnail: /img/2019-01-19-practice-mitered-dovetails/attempt2.JPG
 ---
 
 I spent most of the day in the woodshop today practicing mitered dovetails. And it didn't go well. I went through three attempts all of which I scrapped. Two of them split and the third just looked awful. I learned a lot though and although it sounds trite, the only way I'm going to get better is by practicing and I'd rather ruin a couple bucks of pine and cherry than the final walnut.
@@ -12,7 +12,7 @@ I spent most of the day in the woodshop today practicing mitered dovetails. And 
 The first attempt was made from pine scraps and it split when putting it together. I don't think it was because I was hammering too hard, but likely that third tail from the top didn't taper enough and acted just as a wedge should.
 
 <figure>
-  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt1.jpg" alt="attempt 1" height="50%" width="50%"/>
+  <img src="/img/2019-01-19-practice-mitered-dovetails/attempt1.JPG" alt="attempt 1" height="50%" width="50%"/>
 </figure>
 
 The second attempt I switched to cherry since it is a harder wood, harder even than the walnut I plan on using. I figured this would be more useful practice than the pine. I also wanted to experiment with different dovetail layouts; it looks a little messy because I tried a couple of layouts before committing.
