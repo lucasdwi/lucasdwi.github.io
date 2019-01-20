@@ -1,18 +1,17 @@
 ---
 title: Mitered dovetail
-#description: I saw mitered dovetails featured by [Matt Cremona](https://youtu.be/Ws4OqPIIFms?t=107) and thought they would look good for the carcase of my sideboard. Since the shop had not received more walnut I decided to practice cutting mitered dovetails. I used [Christopher Schwarz's video](https://www.youtube.com/watch?v=CKyzaJeg8r8) as reference for laying out and cutting the joint.
 categories:
 tags: joinery woodworking
 layout: post
 author: Lucas Dwiel
-thumbnail: /img/2019-01-13-mitered-dovetail/rough-clean-small.jpg
+thumbnail: /img/2019-01-13-mitered-dovetail/mitered-dovetail-complete2.jpg
 ---
 
 I saw mitered dovetails featured by [Matt Cremona](https://youtu.be/Ws4OqPIIFms?t=107) and thought they would look good for the carcase of my sideboard. Since the shop had not received more walnut I decided to practice cutting mitered dovetails. I used [Christopher Schwarz's video](https://www.youtube.com/watch?v=CKyzaJeg8r8) as reference for laying out and cutting the joint.
 
 I found two scraps of pine that were priced at $1. They were originally 3/4", but after joining and planing, I was left with 1/2" -- more than enough to practice.
 
-I set dividers to give me fairly wide pins for my first practice board. This produced 6 tails (~x") with ~y" end pins. Besides the usual marks for dovetails, you mark the last two tails on the face and also mark the miters on both edges.
+I set dividers to give me fairly wide pins for my first practice board. Besides the usual marks for dovetails, you mark the last two tails on the face and also mark the miters on both edges.
 
 <figure>
   <img src="/img/2019-01-13-mitered-dovetail/tail-board-small.jpg" alt="tail board" height="50%" width="50%"/>
@@ -69,6 +68,13 @@ After letting the glue dry, I did cursory cleaning with a scraper.
 </figure>
 
 I then hand planed the proud tails and pins, and finished the joint with 120 grit sandpaper by hand.
+<figure>
+  <img src ="/img/2019-01-13-mitered-dovetail/mitered-dovetail-complete1.jpg" alt="miter" height="50%" width="50%"/>
+</figure>
+
+<figure>
+  <img src ="/img/2019-01-13-mitered-dovetail/mitered-dovetail-complete3.jpg" alt="complete" height="50%" width="50%"/>
+</figure>
 
 I don't care much for the angle I used for the dovetails (1/6) -- they look too much like the machine made dovetails. I looked into different angles and decided to try 1/3 for the next practice set.
 
