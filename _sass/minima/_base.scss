@@ -181,6 +181,9 @@ pre {
   #sidebar {
     display: none;
   }
+  .wrapper {
+    margin-right: $spacing-unit;
+  }
 }
 
 .alignright {
@@ -192,7 +195,7 @@ pre {
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}*2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit}*2));
-  margin-right: 200px;
+  /**margin-right: 200px;*/
   margin-left: $spacing-unit;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
