@@ -8,6 +8,10 @@ thumbnail: /img/2019-01-29-cherry-mitered-dovetail/dovetail.JPG
 I finally made a second set of mitered dovetails that I am almost okay with. There are still some nontrivial gaps that I'd like to get rid of in the final project. However, I'm much happier with the overall look of this layout.
 
 <figure>
+  <img src="/img/2019-01-29-cherry-mitered-dovetail/rough-glue.JPG" alt="rough glue up" height="50%" width="50%"/>
+</figure>
+
+<figure>
   <img src="/img/2019-01-29-cherry-mitered-dovetail/dovetail.JPG" alt="dovetails" height="50%" width="50%"/>
 </figure>
 
