@@ -1,0 +1,23 @@
+title: Lucas Dwi
+description: Academic personal website
+url: "https://lucasdwi.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+# Navigation links (used by _includes/nav.html)
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /projects
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
