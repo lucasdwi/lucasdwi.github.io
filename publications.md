@@ -8,22 +8,6 @@ permalink: /publications/
 
 <p class="page-subtitle">Peer-reviewed publications. See also my <a href="https://scholar.google.com/citations?user=YVrtF4UAAAAJ&hl=en">Google Scholar</a> profile.</p>
 
-## 2025
-{: .pub-year}
-
-<ul class="pub-list">
-  <li>
-    <span class="pub-title">Psychedelics and brain stimulation: merging modalities for enhanced therapeutic outcomes</span><br>
-    <span class="pub-authors"><strong>Dwiel, L.</strong>, Nichol, J., Braz, A., Saunders, W., Holtzheimer, P., &amp; Doucette, W.</span><br>
-    <span class="pub-venue">Biological Psychiatry [under review]</span>
-  </li>
-  <li>
-    <span class="pub-title">Chronic intermittent alcohol yields sex-specific disruptions in cortical-striatal-limbic oscillations</span><br>
-    <span class="pub-authors">Hewitt, K., Nicholson, S., Peterson, M., <strong>Dwiel, L.</strong>, &amp; Henricks, A.</span><br>
-    <span class="pub-venue">Alcoholism: Clinical and Experimental Research [accepted]</span>
-  </li>
-</ul>
-
 ## 2023
 {: .pub-year}
 
