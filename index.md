@@ -6,28 +6,35 @@ title: About
 <div class="profile-section" markdown="0">
   <img src="https://via.placeholder.com/160" alt="Profile photo" class="profile-photo">
   <div class="profile-info">
-    <h1>Lucas Dwi</h1>
-    <p class="affiliation">Researcher &bull; [Your University / Institution]</p>
+    <h1>Lucas Dwiel</h1>
+    <p class="affiliation">Scientist &bull; Dartmouth-Hitchcock Medical Center</p>
     <p>
-      <a href="mailto:your.email@example.com">Email</a> &bull;
+      <a href="mailto:dwiel@dartmouth.edu">Email</a> &bull;
       <a href="https://github.com/lucasdwi">GitHub</a> &bull;
-      <a href="https://scholar.google.com/">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=YVrtF4UAAAAJ&hl=en">Google Scholar</a>
     </p>
   </div>
 </div>
 
 ## About Me
 
-Welcome! I am a researcher at [Your Institution]. My research interests include [area 1], [area 2], and [area 3].
+I am a scientist at Dartmouth-Hitchcock Medical Center in Lebanon, NH. My research uses electrophysiological, behavioral, and neuroimaging approaches in animal models to explore the circuit-based neural mechanisms underlying mental health disorders, with the goal of understanding and improving current therapeutics.
 
-*Replace this placeholder text with your own bio. You can write as much or as little as you like — this is your home page.*
+Most recently, I have been investigating ways to extend the effects of brain stimulation using psychedelic drugs — combining neuromodulation with psychedelic-induced neuroplasticity to create longer-lasting changes in brain activity and behavior.
+
+I completed my Ph.D. at Dartmouth's Geisel School of Medicine and hold a B.Sc. in Neuroscience and a B.A. in Philosophy from Indiana University.
 
 ## Research Interests
 
-- [Interest 1, e.g., Machine Learning]
-- [Interest 2, e.g., Computational Linguistics]
-- [Interest 3, e.g., Data Visualization]
+- Electrophysiology & neural oscillations
+- Biomarkers of psychiatric disorders
+- Deep brain stimulation & neuromodulation
+- Psychedelic neuroscience
+- Machine learning for neural data
+- Impulsive decision-making & substance use
 
 ## News
 
 - **Feb 2026** — Website launched!
+- **2025** — Paper on psychedelics and brain stimulation submitted to *Biological Psychiatry*
+- **2024** — Presented at the International Society for Research on Psychedelics (New Orleans)
