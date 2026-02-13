@@ -2,6 +2,7 @@
 layout: default
 title: Research
 permalink: /projects/
+description: "Research projects by Lucas Dwiel: psychedelic-assisted brain stimulation, neural biomarkers of behavior, and corticostriatal circuits in psychiatric disorders."
 ---
 
 # Research & Projects

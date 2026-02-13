@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications/
+description: "Peer-reviewed publications by Lucas Dwiel in electrophysiology, neural oscillations, brain stimulation, and psychedelic neuroscience."
 ---
 
 # Publications

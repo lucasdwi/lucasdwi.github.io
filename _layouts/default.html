@@ -5,7 +5,54 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/img/headshot.jpg' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{{ '/assets/img/headshot.jpg' | absolute_url }}">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Lucas Dwiel",
+    "url": "https://lucasdwi.github.io",
+    "image": "https://lucasdwi.github.io/assets/img/headshot.jpg",
+    "jobTitle": "Scientist",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Dartmouth-Hitchcock Medical Center"
+    },
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Dartmouth College, Geisel School of Medicine"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Indiana University"
+      }
+    ],
+    "sameAs": [
+      "https://github.com/lucasdwi",
+      "https://scholar.google.com/citations?user=YVrtF4UAAAAJ&hl=en"
+    ]
+  }
+  </script>
+
+  {% seo %}
 </head>
 <body>
   {% include nav.html %}

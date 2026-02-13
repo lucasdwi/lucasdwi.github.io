@@ -2,6 +2,7 @@
 layout: default
 title: CV
 permalink: /cv/
+description: "Curriculum vitae of Lucas Dwiel — education, research experience, publications, teaching, grants, and awards."
 ---
 
 # Curriculum Vitae

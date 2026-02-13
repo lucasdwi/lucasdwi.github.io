@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: "Lucas Dwiel is a scientist at Dartmouth-Hitchcock Medical Center researching electrophysiology, brain stimulation, and psychedelic neuroscience."
 ---
 
 <div class="profile-section" markdown="0">

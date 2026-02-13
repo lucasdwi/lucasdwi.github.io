@@ -1,10 +1,20 @@
 title: Lucas Dwiel
-description: Scientist at Dartmouth-Hitchcock Medical Center
+description: "Lucas Dwiel — Scientist at Dartmouth-Hitchcock Medical Center. Research in electrophysiology, neural biomarkers, brain stimulation, and psychedelic neuroscience."
 url: "https://lucasdwi.github.io"
 baseurl: ""
 
+# Author info (used in meta tags)
+author:
+  name: Lucas Dwiel
+  email: dwiel@dartmouth.edu
+
 markdown: kramdown
 permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Navigation links (used by _includes/nav.html)
 navigation:
