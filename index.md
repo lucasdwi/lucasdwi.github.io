@@ -32,9 +32,3 @@ I completed my Ph.D. at Dartmouth's Geisel School of Medicine and hold a B.Sc. i
 - Psychedelic neuroscience
 - Machine learning for neural data
 - Impulsive decision-making & substance use
-
-## News
-
-- **Feb 2026** — Website launched!
-- **2025** — Paper on psychedelics and brain stimulation submitted to *Biological Psychiatry*
-- **2024** — Presented at the International Society for Research on Psychedelics (New Orleans)
