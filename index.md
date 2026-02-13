@@ -4,7 +4,7 @@ title: About
 ---
 
 <div class="profile-section" markdown="0">
-  <img src="https://via.placeholder.com/160" alt="Profile photo" class="profile-photo">
+  <img src="/assets/img/headshot.jpg" alt="Lucas Dwiel" class="profile-photo">
   <div class="profile-info">
     <h1>Lucas Dwiel</h1>
     <p class="affiliation">Scientist &bull; Dartmouth-Hitchcock Medical Center</p>
