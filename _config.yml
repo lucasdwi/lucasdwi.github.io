@@ -26,6 +26,8 @@ navigation:
     url: /publications
   - title: CV
     url: /cv
+  - title: Projects
+    url: /personal-projects
 
 # Build settings
 exclude:
