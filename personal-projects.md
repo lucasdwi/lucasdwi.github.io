@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /personal-projects/
+permalink: /projects/
 description: "Personal projects by Lucas Dwiel."
 ---
 

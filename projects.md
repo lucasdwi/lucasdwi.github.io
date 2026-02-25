@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /projects/
+permalink: /research/
 description: "Research projects by Lucas Dwiel: psychedelic-assisted brain stimulation, neural biomarkers of behavior, and corticostriatal circuits in psychiatric disorders."
 ---
 

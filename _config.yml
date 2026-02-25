@@ -21,13 +21,13 @@ navigation:
   - title: About
     url: /
   - title: Research
-    url: /projects
+    url: /research
   - title: Publications
     url: /publications
   - title: CV
     url: /cv
   - title: Projects
-    url: /personal-projects
+    url: /projects
 
 # Build settings
 exclude:
