@@ -5,9 +5,9 @@ permalink: /research/
 description: "Research projects by Lucas Dwiel: psychedelic-assisted brain stimulation, neural biomarkers of behavior, and corticostriatal circuits in psychiatric disorders."
 ---
 
-# Research & Projects
+# Research
 
-<p class="page-subtitle">Selected research themes and ongoing projects.</p>
+<p class="page-subtitle">Selected research themes and ongoing work.</p>
 
 <div class="project-card" markdown="1">
 
