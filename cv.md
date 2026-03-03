@@ -5,10 +5,6 @@ permalink: /cv/
 description: "Curriculum vitae of Lucas Dwiel — education, research experience, publications, teaching, grants, and awards."
 ---
 
-# Curriculum Vitae
-
-<p class="page-subtitle">Full academic CV. <!-- <a href="#">Download PDF</a> --></p>
-
 ## Current Position
 {: .cv-section-title}
 
@@ -16,6 +12,10 @@ description: "Curriculum vitae of Lucas Dwiel — education, research experience
   <div class="cv-entry">
     <h3>Scientist</h3>
     <p class="cv-meta">Dartmouth-Hitchcock Medical Center, Lebanon, NH &bull; 2026 – present</p>
+  </div>
+  <div class="cv-entry">
+    <h3>Lecturer</h3>
+    <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – present</p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ description: "Curriculum vitae of Lucas Dwiel — education, research experience
   </div>
   <div class="cv-entry">
     <h3>Lecturer — PSYC22: Learning &amp; PSYC50.17: Psychedelics and the Brain</h3>
-    <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – 2025</p>
+    <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – present</p>
     <p>Designed and taught undergraduate courses including a new seminar on psychedelics.</p>
   </div>
   <div class="cv-entry">
