@@ -46,7 +46,7 @@ description: "Peer-reviewed publications by Lucas Dwiel in electrophysiology, ne
     <span class="pub-venue">Biology of Sex Differences, 2019</span>
   </li>
   <li>
-    <span class="pub-title">[Title missing from CV — please update]</span><br>
+    <span class="pub-title">Corticostriatal oscillations predict high vs. low drinkers in a rat model of limited access alcohol consumption</span><br>
     <span class="pub-authors">Henricks, A., <strong>Dwiel, L.</strong>, Deveau, N., Simon, A., Ruiz-Jaquez, M., Green, A., &amp; Doucette, W.</span><br>
     <span class="pub-venue">Frontiers in Systems Neuroscience, 2019</span>
   </li>
