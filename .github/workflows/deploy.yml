@@ -29,8 +29,9 @@ jobs:
 
       - name: Copy music app (skipped by Jekyll)
         run: |
-          mkdir -p _site/music
-          cp music/index.html _site/music/index.html
+          sudo mkdir -p _site/music
+          sudo cp music/index.html _site/music/index.html
+          sudo chmod -R a+r _site/music
 
       - uses: actions/upload-pages-artifact@v3
 
