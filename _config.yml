@@ -33,3 +33,4 @@ navigation:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - music
