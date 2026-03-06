@@ -26,11 +26,11 @@ An interactive app for exploring and analyzing your music taste. Import a RateYo
 
 <div class="project-card" markdown="1">
 
-### Framing Calculator
+### MatBoard
 
 A picture framing calculator with a canvas-based live preview. Enter artwork dimensions and it auto-suggests mat borders, moulding width, and generates a full cut list. Drag or paste artwork to see dynamic mat color suggestions based on image temperature analysis.
 
-[Open Framing Calculator &rarr;](/framing-tools/)
+[Open MatBoard &rarr;](/MatBoard/)
 
 <div class="tags" markdown="0">
   <span class="tag">woodworking</span>
