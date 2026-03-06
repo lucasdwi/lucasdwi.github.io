@@ -34,7 +34,7 @@ A picture framing calculator with a canvas-based live preview. Enter artwork dim
 
 <div class="tags" markdown="0">
   <span class="tag">woodworking</span>
-  <span class="tag">canvas</span>
+  <span class="tag">calculator</span>
   <span class="tag">single-page app</span>
 </div>
 </div>
