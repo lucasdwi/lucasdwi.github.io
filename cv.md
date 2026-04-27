@@ -14,6 +14,10 @@ description: "Curriculum vitae of Lucas Dwiel — education, research experience
     <p class="cv-meta">Dartmouth-Hitchcock Medical Center, Lebanon, NH &bull; 2026 – present</p>
   </div>
   <div class="cv-entry">
+    <h3>Assistant Professor</h3>
+    <p class="cv-meta">Geisel School of Medicine, Dartmouth &bull; 2026 – present</p>
+  </div>
+  <div class="cv-entry">
     <h3>Lecturer</h3>
     <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – present</p>
   </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: "Lucas Dwiel is a scientist at Dartmouth-Hitchcock Medical Center researching electrophysiology, brain stimulation, and psychedelic neuroscience."
+description: "Lucas Dwiel is a scientist at Dartmouth-Hitchcock Medical Center, Assistant Professor at Geisel School of Medicine, and Lecturer in Psychological and Brain Sciences at Dartmouth — researching electrophysiology, brain stimulation, and psychedelic neuroscience."
 ---
 
 <div class="profile-section" markdown="0">
@@ -9,6 +9,8 @@ description: "Lucas Dwiel is a scientist at Dartmouth-Hitchcock Medical Center r
   <div class="profile-info">
     <h1>Lucas Dwiel</h1>
     <p class="affiliation">Scientist &bull; Dartmouth-Hitchcock Medical Center</p>
+    <p class="affiliation">Assistant Professor &bull; Geisel School of Medicine</p>
+    <p class="affiliation">Lecturer &bull; Psychological and Brain Sciences, Dartmouth</p>
     <p>
       <a href="mailto:dwiel@dartmouth.edu">Email</a> &bull;
       <a href="https://github.com/lucasdwi">GitHub</a> &bull;
