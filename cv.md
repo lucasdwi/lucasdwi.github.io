@@ -72,9 +72,14 @@ description: "Curriculum vitae of Lucas Dwiel — education, research experience
     <p>Graduate-level course covering behavioral neuroscience, electrophysiology, signal processing, machine learning, and psychedelic neuroscience.</p>
   </div>
   <div class="cv-entry">
-    <h3>Lecturer — PSYC22: Learning &amp; PSYC50.17: Psychedelics and the Brain</h3>
+    <h3>Lecturer — PSYC22: Learning</h3>
     <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – present</p>
-    <p>Designed and taught undergraduate courses including a new seminar on psychedelics.</p>
+    <p>Undergraduate course on the psychology and neuroscience of learning.</p>
+  </div>
+  <div class="cv-entry">
+    <h3>Lecturer — PSYC50.17: Psychedelics and the Brain</h3>
+    <p class="cv-meta">Psychological and Brain Sciences, Dartmouth &bull; 2022 – present</p>
+    <p>Designed and taught a new undergraduate seminar on psychedelic neuroscience.</p>
   </div>
   <div class="cv-entry">
     <h3>Faculty — Citizen Science</h3>

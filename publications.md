@@ -9,6 +9,17 @@ description: "Peer-reviewed publications by Lucas Dwiel in electrophysiology, ne
 
 <p class="page-subtitle">Peer-reviewed publications. See also my <a href="https://scholar.google.com/citations?user=YVrtF4UAAAAJ&hl=en">Google Scholar</a> profile.</p>
 
+## 2026
+{: .pub-year}
+
+<ul class="pub-list">
+  <li>
+    <span class="pub-title">Lysergic acid diethylamide pretreatment prolongs brain-stimulation induced neural activity changes</span><br>
+    <span class="pub-authors"><strong>Dwiel, L.</strong>, Prina, M., Bragg, E., Company, M., Drucker, L., Reduron, L., Luikart, B., &amp; Doucette, W.</span><br>
+    <span class="pub-venue">Brain Stimulation, 2026</span>
+  </li>
+</ul>
+
 ## 2023
 {: .pub-year}
 
@@ -16,7 +27,7 @@ description: "Peer-reviewed publications by Lucas Dwiel in electrophysiology, ne
   <li>
     <span class="pub-title">Lysergic acid diethylamide alters the effects of brain stimulation in rodents</span><br>
     <span class="pub-authors"><strong>Dwiel, L.</strong>, Henricks, A., Bragg, E., Nicol, J., Gui, J., &amp; Doucette, W.</span><br>
-    <span class="pub-venue">Psychopharmacology, 2023</span>
+    <span class="pub-venue">Psychedelic Medicine, 2023</span>
   </li>
 </ul>
 
